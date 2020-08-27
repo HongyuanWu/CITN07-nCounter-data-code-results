@@ -1,0 +1,3 @@
+load("/Users/sarahbaxter/Documents/patrick/Manuscript 1st submission/NanoString_cell_scores_and_differential_expression/data/CITN07 data ready for analysis October2018.RData")
+ls()
+annot
